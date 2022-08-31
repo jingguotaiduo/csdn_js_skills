@@ -6,3 +6,15 @@ some javascript which could help you to copy code from CSDN.
 (2) Click the right key of mouse or push the key( F12 ), you can open the devtools window, select the panel which named with console;
 
 (3) Cope the javascript code from csdn-blog-NoLoginWithNoCareToCopyCode.js file, paste them to the console, finally,  congratulations! This time, you can copy the code on the website blog casually!
+
+   The specific operations is following:
+<table>
+  <tr>
+    <td><img src="example1-1.png?#pic_center"><strong>Step 1</td>
+    <td><img src="example1-3.png?#pic_center"><strong>Step 3</td>
+  </tr>
+  <tr>
+    <td><img src="example1-2.png?#pic_center"><strong>Step 2</td>
+    <td><img src="example1-4.png?#pic_center"><strong>Result</td>
+  </tr>
+</table>
