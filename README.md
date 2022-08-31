@@ -18,3 +18,5 @@ some javascript which could help you to copy code from CSDN.
     <td><img src="example1-4.png?#pic_center"><center><strong>Result</center></td>
   </tr>
 </table>
+
+Work hard, live happily!
