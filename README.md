@@ -10,11 +10,11 @@ some javascript which could help you to copy code from CSDN.
    The specific operations is following:
 <table>
   <tr>
-    <td><img src="example1-1.png?#pic_center"><strong>Step 1</td>
-    <td><img src="example1-3.png?#pic_center"><strong>Step 3</td>
+     <td><img src="example1-1.png?#pic_center"><center><strong>Step 1</center></td>
+     <td><img src="example1-3.png?#pic_center"><center><strong>Step 3</center></td>
   </tr>
   <tr>
-    <td><img src="example1-2.png?#pic_center"><strong>Step 2</td>
-    <td><img src="example1-4.png?#pic_center"><strong>Result</td>
+     <td><img src="example1-2.png?#pic_center"><center><strong>Step 2</center></td>
+    <td><img src="example1-4.png?#pic_center"><center><strong>Result</center></td>
   </tr>
 </table>
