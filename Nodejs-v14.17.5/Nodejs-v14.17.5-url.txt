@@ -1,0 +1,2 @@
+https://registry.npmmirror.com/binary.html?path=node/v14.17.5/
+https://cdn.npmmirror.com/binaries/node/v14.17.5/node-v14.17.5-x64.msi
